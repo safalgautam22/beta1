@@ -1,0 +1,12 @@
+{
+  "name": "crispy-octo-succotash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/safalgautam22/crispy-octo-succotash.git",
+  "author": "Safal Gautam <saphal106@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^24.19.0"
+  },
+  "type": "module"
+}
